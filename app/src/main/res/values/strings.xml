@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">User Input App</string>
+    <string name="myStringparagraph"><![CDATA[1. Add data binding to gradle. \n \n 2. Change activity_main.xmI to use a <layout> tag. \n \n 3. Create a binding object in the MainActivity. \n \n 4. In onCreate(), use DataBindingUtil to set the layout for MainActivity. \n \n 5. In MainActivity, use the binding object to replace all calls to findViewByld. \n \n Create a new data class MyName for the name and nickname. \n \n 6. In activity_main.xml, add a data block with a variable myName for the MyName class. \n \n 7. In activity_main.xml, replace references to name and nickname string resources with references to the variable. \n \n 8. In MainActivity, create an instance of MyName and set binding.myName to it. \n \n 9. In addNickname(), set the nickname in the binding object and invalidateAll().]]></string>
+</resources>
